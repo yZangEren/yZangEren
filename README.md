@@ -7,7 +7,8 @@ written, asynchronous work.
 
 - **Launch QA Starter Pack - USD 25 / CNY 179.** A 66-point launch checklist,
   offline workbench, bug and test templates, severity scorecard, handoff
-  template, and read-only page helper. [Buy and download on itch.io](https://launchqalab.itch.io/launch-qa-starter-pack)
+  template, and read-only page helper. [Buy and download on itch.io](https://launchqalab.itch.io/launch-qa-starter-pack),
+  [try the interactive 12-check sample](https://yzangeren.github.io/same-day-technical-delivery/preview/launch-qa-sample.html),
   or [view the public preview](https://yzangeren.github.io/same-day-technical-delivery/preview/launch-qa-starter-pack-preview.html).
 - **Same-day paid trials.** Focused website QA, small JavaScript/TypeScript or
   Python fixes, and technical proof packets with fixed scope and written
